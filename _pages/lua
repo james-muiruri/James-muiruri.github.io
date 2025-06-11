@@ -1,0 +1,10 @@
+📁 your-repo/
+├── _config.yml
+├── _pages/
+│   ├── about.md
+│   ├── skills.md
+│   ├── projects.md
+│   ├── resume.md
+│   └── contact.md
+├── assets/
+│   └── files/  <-- (place your resume PDF here)

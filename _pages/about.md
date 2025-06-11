@@ -1,30 +1,74 @@
 ---
 layout: single
-title: "About Me"
+title: "About"
 permalink: /about/
+author_profile: true
 ---
 
-Hello! I’m **James Muiruri Mutiria**, an IT enthusiast with a background in Mathematics and Computer Science from Taita Taveta University.
+👋🏽 Hi, I’m **James Muiruri Mutiria** — an IT enthusiast driven by curiosity and a love for continuous learning.
 
-I’m passionate about **cybersecurity, network engineering, and IT support**, and I enjoy researching and learning about new technologies and trends in the IT world.
-
-### 🎓 Education & Certifications
-
-- BSc. Mathematics and Computer Science – Taita Taveta University
-- Microsoft: *The Essentials of Generative AI*
-- Cisco: *Introduction to Cybersecurity*, *Packet Tracer*
-- Hack The Box: *Windows Fundamentals*, *Linux Fundamentals*, *Nmap*, *Web Applications*, *Networking*
-- TryHackMe: *Offensive & Defensive Security*, *Penetration Testing Fundamentals*, *Python Basics*, *DNS in Depth*, *Passive Reconnaissance*, *Cybersecurity Career Paths*
-
-### 💼 Work Experience
-
-- **Network Technician**  
-  - Installed new access points, managed cabling, configured routers/switches, and ran fiber optic cables.
-
-- **IT Support Technician**  
-  - Maintained hardware/software, installed workstations, configured CCTV, invoicing and deliveries.
-
-- **Volunteer (Student Role)**  
-  - Assisted in various networking projects and collaborated on a university-led IT research project.
+🎯 I'm passionate about **cybersecurity**, **network engineering**, and **technical support**, with hands-on experience in both hardware and software environments. I specialize in identifying tech problems and solving them with reliable, scalable solutions.
 
 ---
+
+## 🎓 Education & Certifications
+
+- **BSc. Mathematics & Computer Science** – Taita Taveta University
+- **Microsoft**: *Essentials of Generative AI*
+- **Cisco Networking Academy**:  
+  - Introduction to Cybersecurity  
+  - Packet Tracer & Networking Concepts
+- **Hack The Box**:  
+  - Linux Fundamentals  
+  - Windows Fundamentals  
+  - Nmap, Networking, Web Apps
+- **TryHackMe** Modules:  
+  - Offensive Security, Defensive Security  
+  - DNS in Detail, Passive Reconnaissance  
+  - Python Basics, Pentesting Fundamentals
+
+---
+
+## 🛠️ Work Experience
+
+### 🔧 **Network Technician**  
+Installed and configured network infrastructure across educational institutions:
+- Access point installation
+- Cable management
+- Fiber optic routing
+- Network device setup
+
+### 🖥️ **IT Support Technician**  
+- Hardware & software maintenance
+- New workstation setup
+- CCTV installation and configuration
+- Asset delivery and invoicing
+
+### 🤝 **Volunteer (Student Projects)**  
+- Assisted with networking jobs
+- Contributed to IT research with **ITATU**
+
+---
+
+## 🧭 Career Goals
+
+I’m actively seeking roles in:
+
+- **IT Support**
+- **Network Engineering**
+- **Cybersecurity Analysis**
+
+I aim to grow in a collaborative, research-driven team where I can expand both my **technical depth** and **practical experience**.
+
+---
+
+## 📞 Contact Me
+
+- **Email**: [your-email@example.com]
+- **Phone**: +2547XXXXXXXXX
+- **LinkedIn**: [linkedin.com/in/YOUR_PROFILE](https://linkedin.com/in/YOUR_PROFILE)
+- **GitHub**: [github.com/james-muiruri](https://github.com/james-muiruri)
+
+---
+
+> _"The beautiful thing about learning is nobody can take it away from you." — B.B. King_

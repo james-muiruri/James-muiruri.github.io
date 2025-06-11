@@ -21,7 +21,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Google search results) and in your feed.xml site description.
 twitter_username: username
 github_username: James-muiruri
-minimal_mistakes_skin: default
+minimal_mistakes_skin: neon
 search: true
 
 # Build settings
@@ -59,11 +59,11 @@ plugins:
 
 author:
   name   : "James Muiruri Mutiria"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/Jamesm.jpg"
   bio    : "IT SUPPORT/NETWORK ENGINEER/SECURITY ANALYST"
   links:
     - label: "linkedin"
-      icon: "fas fa-fw fa-link"
+      icon: "fas fa-fw fa-linkedin"
       url: "www.linkedin.com/in/james-muiruri-325b23258"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"

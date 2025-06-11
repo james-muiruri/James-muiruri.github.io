@@ -23,7 +23,7 @@ baseurl: "" # Leave empty unless your site is in a subdirectory
 # Author settings
 author:
   name: "James Muiruri Mutiria"
-  avatar: "/assets/images/avatar.png" # Add your photo here later
+  avatar: "/assets/images/Jamesm.jpg" # Add your photo here later
   bio: >
     IT enthusiast passionate about cybersecurity, networking, and IT support. Always learning, always growing.
   location: "Kenya"

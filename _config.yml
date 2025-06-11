@@ -13,103 +13,63 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Mr James Muiruri Mutiria
-email: jamesmuiruri820@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-twitter_username: username
-github_username: James-muiruri
-minimal_mistakes_skin: neon
-search: true
+# Site settings
+title: "James Muiruri Mutiria"
+subtitle: "IT Support | Network Engineering | Cybersecurity Enthusiast"
+description: "Portfolio showcasing my IT journey — from hardware support to offensive and defensive cybersecurity."
+url: "https://your-username.github.io" # Change to your GitHub Pages URL or custom domain
+baseurl: "" # Leave empty unless your site is in a subdirectory
+
+# Author settings
+author:
+  name: "James Muiruri Mutiria"
+  avatar: "/assets/images/avatar.png" # Add your photo here later
+  bio: >
+    IT enthusiast passionate about cybersecurity, networking, and IT support. Always learning, always growing.
+  location: "Kenya"
+  email: "jamesmuiruri820@gmail.com"     # <--- Add your email here
+  links:
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/james-muiruri-325b23258"   # <--- Add LinkedIn URL here
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/James-Muiruri"   # optional
+    - label: "Phone"
+      icon: "fas fa-phone"
+      url: "tel:+254704070009"   # <--- Add phone number here (international format)
 
 # Build settings
 markdown: kramdown
-remote_theme: mmistakes/minimal-mistakes
-# Outputting
-permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
-paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 
-include:
-  - _pages
+# Theme settings
+minimal_mistakes_skin: "dark"   # <--- Tech-themed dark look
+locale: "en-US"
+search: true
 
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+# Navigation
+header_pages:
+  - _pages/about.md
+  - _pages/skills.md
+  - _pages/projects.md
+  - _pages/resume.md
+  - _pages/contact.md
 
-# Plugins (previously gems:)
+# Plugins
 plugins:
+  - jekyll-include-cache
+  - jekyll-feed
+  - jekyll-seo-tag
   - jekyll-paginate
   - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-  - jemoji
-  - jekyll-include-cache
 
-author:
-  name   : "James Muiruri Mutiria"
-  avatar : "/assets/images/Jamesm.jpg"
-  bio    : "IT SUPPORT/NETWORK ENGINEER/SECURITY ANALYST"
-  links:
-    - label: "linkedin"
-      icon: "fas fa-fw fa-linkedin"
-      url: "www.linkedin.com/in/james-muiruri-325b23258"
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "jamesmuiruri820@mail.com"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/james-muiruri"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
-
+# Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
-
-defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
-  # _pages
-  - scope:
-      path: "_pages"
-      type: pages
-    values:
-      layout: single
-      author_profile: true
-
-category_archive:
-  type: liquid
-  path: /categories/
-tag_archive:
-  type: liquid
-  path: /tags/
+    - label: "Email"
+      url: "mailto:your-email@example.com"   # <--- Again, your email here
+    - label: "LinkedIn"
+      url: "https://www.linkedin.com/in/your-linkedin-profile"
+    - label: "Phone"
+      url: "tel:+254700000000"

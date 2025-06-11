@@ -21,11 +21,16 @@ author_profile: true
 - **Hack The Box**:  
   - Linux Fundamentals  
   - Windows Fundamentals  
-  - Nmap, Networking, Web Apps
+  - Network Enumeration with Nmap
+  -  introduction to Networking
+  - Introduction to Web Applictaions
 - **TryHackMe** Modules:  
-  - Offensive Security, Defensive Security  
-  - DNS in Detail, Passive Reconnaissance  
-  - Python Basics, Pentesting Fundamentals
+  - Offensive Security
+  -  Defensive Security  
+  - DNS in Detail
+  -  Passive Reconnaissance  
+  - Python Basics
+  - Pentesting Fundamentals
 
 ---
 
@@ -64,9 +69,9 @@ I aim to grow in a collaborative, research-driven team where I can expand both m
 
 ## 📞 Contact Me
 
-- **Email**: [your-email@example.com]
-- **Phone**: +2547XXXXXXXXX
-- **LinkedIn**: [linkedin.com/in/YOUR_PROFILE](https://linkedin.com/in/YOUR_PROFILE)
+- **Email**: jamesmuiruri820@gmail.com
+- **Phone**: +254704070009
+- **LinkedIn**: https://www.linkedin.com/in/james-muiruri-325b23258
 - **GitHub**: [github.com/james-muiruri](https://github.com/james-muiruri)
 
 ---
